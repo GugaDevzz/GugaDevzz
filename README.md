@@ -1,8 +1,8 @@
-## Hi there 👋
+## Eu sou o Gustavo!👋
 
 - 🔭 Estudando Java
 - 🌱 Estou no Segundo ano do Ensino Médio
-- ⚡ Eu toco violão
+- ⚡ My dream is to live abroad
 
 <div>
   <a href="https://github.com/GugaDevzz">
@@ -18,11 +18,7 @@
 </div>
 
 <div> 
-  ´
-</div>
-
-<div> 
   <a href="https://discord.gg/G9GPg5SA75" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:contato@rafaballerini.tech"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
+  <a href = "mailto:gugp2201@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/gustavo-pereira-a979a52b0" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
 </div>
