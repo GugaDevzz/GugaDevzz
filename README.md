@@ -1,7 +1,7 @@
 ## Eu sou o Gustavo!👋
 
-- 🔭 Estudando Java
-- 🌱 Estou no Segundo ano do Ensino Médio
+- 🔭 Estudando Python, Java, HTML, CSS, JavaScript
+- 🌱 Estou no Terceiro ano do Ensino Médio
 - ⚡ My dream is to live abroad
 
 <div>
