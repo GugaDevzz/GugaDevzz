@@ -4,11 +4,11 @@
 - 🌱 Estou no Terceiro ano do Ensino Médio
 - ⚡ My dream is to live abroad
 
-<div>
+<!-- <div>
   <a href="https://github.com/GugaDevzz">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GugaDevzz&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GugaDevzz&layout=compact&langs_count=16&theme=dark"/>
-</div>
+</div> -->
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Guga-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
