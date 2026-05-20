@@ -14,10 +14,10 @@
 
 ##
 
-<p>
-  <img src="https://github.com/GugaDevzz/github-stats/blob/generated/overview.svg#gh-dark-mode-only" />
-  <img src="https://github.com/GugaDevzz/github-stats/blob/generated/languages.svg#gh-dark-mode-only" />
-</p>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/stats-output/stats.svg" height="150" alt="stats graph"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/languages-output/languages.svg" height="150" alt="languages graph"  />
+</div>
 
 <div> 
   <a href="https://discord.gg/G9GPg5SA75" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
